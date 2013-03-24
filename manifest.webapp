@@ -1,9 +1,9 @@
 {
   "name": "raja",
   "description": "My elevator pitch goes here",
-  "launch_path": "/index.html",
+  "launch_path": "/Essential-social-network/index.html",
   "icons": {
-    "128": "/facebook-icon.png"
+    "128": "/Essential-social-network/facebook-icon.png"
   },
   "developer": {
     "name": "Your name or organization",
